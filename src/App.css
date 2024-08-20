@@ -17,7 +17,7 @@ html {
   position: fixed;
   top: 0;
   left: 0;
-  background-image: url("C:\Users\Vishaal Krishnan\Desktop\Dinesh\twitter-predictor\src\x-twitter.png"); /* Update this path to your image location */
+  background-image: url("x-twitter.png");
   background-size: cover;
   background-position: center;
 }
